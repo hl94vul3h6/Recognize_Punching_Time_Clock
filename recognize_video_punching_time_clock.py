@@ -18,11 +18,11 @@ import time
 import requests
 import random
 
-LINE_event_name = 'LINE_ASUS_0816'
-LINE_key = 'cUDlu7KaJrbbCs_dp83_utJsLoHjoTfPKbEy1qrW_FT'
+LINE_event_name = ''
+LINE_key = ''
 
-SHEETS_event_name = 'SHEETS_ASUS_0816'
-SHEETS_key = 'cUDlu7KaJrbbCs_dp83_utJsLoHjoTfPKbEy1qrW_FT'
+SHEETS_event_name = ''
+SHEETS_key = ''
 
 # construct the argument parser and parse the arguments
 ap = argparse.ArgumentParser()
